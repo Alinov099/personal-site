@@ -1,1 +1,3 @@
 # personal-site
+This is a basic personal website of ALien Haider created during web dev course.
+It contains an index file, a CSS file and an images folder.
